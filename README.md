@@ -10,10 +10,9 @@
  The goal is to dodge incoming missiles and drop bombs to sink the boats, aiming to survive for as long as possible.
 
 -Key Features:
+
 +Dynamic plane control with intuitive dodging mechanics
-
 +Challenging enemy boats that shoot heat-seeking missiles
-
 +Endless gameplay mode to test player endurance and skill
 
 -Technologies Used: Unity, Blender, sfxr, Github Desktop
